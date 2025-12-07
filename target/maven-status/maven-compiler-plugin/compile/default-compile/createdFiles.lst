@@ -1,0 +1,11 @@
+com/projeto/compra/CompraService.class
+com/projeto/encomenda/EncomendaService.class
+com/projeto/historico/HistoricoService.class
+com/projeto/senha/SenhaService.class
+com/projeto/chat/ChatService.class
+com/projeto/perfil/PerfilService.class
+com/projeto/frete/FreteService.class
+com/projeto/favoritos/FavoritosService.class
+com/projeto/avaliacao/AvaliacaoService.class
+com/projeto/ProjetoApplication.class
+com/projeto/produto/ProdutoService.class
